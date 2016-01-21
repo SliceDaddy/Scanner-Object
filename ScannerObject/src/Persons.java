@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Ryan Slipher
+//used parts from notes L4+L5 slide14
 public class Persons {
 
 	public static void main(String[] args) {
